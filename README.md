@@ -32,8 +32,7 @@ I am a Biotechnology undergraduate student at the Federal University of Pará (U
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🔗 [RNA-Seq Analysis Pipeline](https://github.com/seu-usuario/seu-repositorio) | Differential gene expression workflow from raw FASTQ to functional enrichment using R/Bioconductor. | `R`, `Bash`, `FastQC`, `DESeq2` |
-| 🔗 [Variant Calling Workflow](https://github.com/seu-usuario/seu-repositorio) | Automated pipeline for genomic variant identification using GATK best practices. | `Bash`, `Conda`, `BWA`, `GATK`, `VCFtools` |
+| 🔗 [Variant Calling Workflow](https://github.com/anapfreits/VariantCalling-MLeprae.git) | Automated pipeline for genomic variant identification. | `Bash`, `Conda`, `minimap2`, `samtools`, `snpEff`, `filtlong` |
 
 ---
 
